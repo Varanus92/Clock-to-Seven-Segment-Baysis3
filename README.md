@@ -29,9 +29,7 @@ Creating Bitstream file from Vivado®
 
 Loading the Bitstream to the Baysis3 Board and see the results!
 
-*note: Taken into account the diffrance in connection of the anodes/cathods in Baysis3 and PmodSSD
-
-
+*note: Taken into account the diffrance in connection of the anodes/cathods in Baysis3 and PmodSSD.
 
 Demonstration link:
 
