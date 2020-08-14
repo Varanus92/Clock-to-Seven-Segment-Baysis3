@@ -5,27 +5,26 @@ Introduction:
 Clock is on of the simple electronic things we know from chilidhood.
 Its facinating to know the way this small things works.
 
-  
-
+-----------
 Goal:
 
 Design a full functioining clock (seconds,minutes,hours) and implement it on
 Seven Segment on Baysis3 FPGA and PmodSSD.
 
+------------
+Solution (Only from above explaination):
 
-Solution:
-
-Only from above explaination:
-Design a "time base counter" to create pulse every 1 sec (from 100Mhz internal clock)
+Designing:
+#"time base counter" to create pulse every 1 sec (from 100Mhz internal clock)
 prepare 3 counters for seconds,minutes and hours.
 
-Designing the Seven Segment block (binary to Seven Segment decoding)
+#Seven Segment block (binary to Seven Segment decoding)
 
-Designing the logic ontroling the refresh rate of the Seven Segment Display of Baysis3 and PmodSSD*
+#logic ontroling the refresh rate of the Seven Segment Display of Baysis3 and PmodSSD*
 
-Creating clock function (reset,load time value) using on board pin and buttons via XDC file.
+#clock function (reset,load time value) using on board pin and buttons via XDC file.
 
-Creating Bitstream file from Vivado®
+#Bitstream file from Vivado®
 
 Loading the Bitstream to the Baysis3 Board and see the results!
 
