@@ -23,13 +23,15 @@ Designing the Seven Segment block (binary to Seven Segment decoding)
 
 Designing the logic ontroling the refresh rate of the Seven Segment Display of Baysis3 and PmodSSD*
 
-Creating XDC file.
+Creating clock function (reset,load time value) using on board pin and buttons via XDC file.
 
 Creating Bitstream file from Vivado®
 
 Loading the Bitstream to the Baysis3 Board and see the results!
 
 *note: Taken into account the diffrance in connection of the anodes/cathods in Baysis3 and PmodSSD.
+
+-------------
 
 Demonstration link:
 
