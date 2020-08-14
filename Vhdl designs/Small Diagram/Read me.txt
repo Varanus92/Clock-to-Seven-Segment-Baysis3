@@ -1,0 +1,1 @@
+I did it when i started working on the lab - a small design to check functionality of the "new" timer

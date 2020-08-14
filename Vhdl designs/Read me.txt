@@ -1,0 +1,1 @@
+"COUNTER_TB" was used to test the conter in the segments block (Pmod for sure ,about the basis3 dont remember)
