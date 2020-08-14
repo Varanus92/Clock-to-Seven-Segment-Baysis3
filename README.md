@@ -9,15 +9,19 @@ Its facinating to know the way this small things works.
 ## Goal:
 
 Design a full functioining clock (seconds,minutes,hours) and implement it on
-Seven Segment on Baysis3 FPGA and PmodSSD.
+Seven Segment on Baysis3 FPGA and PmodSSD - using Hierarchical design
 
 
 ## Solution (Only from above explaination):
 
-Designing:
-#"time base counter" to create pulse every 1 sec (from 100Mhz internal clock)
-prepare 3 counters for seconds,minutes and hours.
 
+Designing:
+
+"LAB3":
+#"time base counter" to create pulse every 1 sec (from 100Mhz internal clock)
+prepare 3 counters for seconds,minutes and hours .
+
+"LAB5":
 #Seven Segment block (binary to Seven Segment decoding)
 
 #logic ontroling the refresh rate of the Seven Segment Display of Baysis3 and PmodSSD*
