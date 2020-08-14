@@ -18,10 +18,12 @@ Seven Segment on Baysis3 FPGA and PmodSSD - using Hierarchical design
 Designing:
 
 "LAB3":
+
 #"time base counter" to create pulse every 1 sec (from 100Mhz internal clock)
 prepare 3 counters for seconds,minutes and hours .
 
 "LAB5":
+
 #Seven Segment block (binary to Seven Segment decoding)
 
 #logic ontroling the refresh rate of the Seven Segment Display of Baysis3 and PmodSSD*
